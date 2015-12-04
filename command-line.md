@@ -5,10 +5,10 @@ Some examples of Terminal commands.
 cd [example name]   : change directory, to the specified [name]
 ls                  : lists the files in the current directoy
 mkdir [example name]: creates a new directory
+rmdir [example name]: removes the named directory
 touch [file]        : creates a new file 
 pwd                 : outputs your current directory location i.e home/user/Downloads
-help                : displays a list of basic commands 
 open [file]         : opens a file as if you clicked on it
 man [command]       : Show help for the [command]
 cp [file][directory]: Copy [file] to [directory]
-q                   : exit
+exit                : exit the comannd line
